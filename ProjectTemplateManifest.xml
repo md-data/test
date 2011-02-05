@@ -1,0 +1,9 @@
+<ProjectTemplate>
+	<Name>Test Project</Name>
+	<Summary>Tests the index generator</Summary>
+	<Description>This project tests the features of the md-data index generator</Description>
+	<Author>Michael Hutchinson</Author>
+	<Tags>Foo,Bar</Tags>
+	<IconFile>Icon.png</IconFile>
+	<ScreenshotFile>Screenshot.png</ScreenshotFile>
+</ProjectTemplate>
